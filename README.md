@@ -20,5 +20,5 @@
 本編中に登場するRスクリプトと実行結果．<br>
 Rスクリプトの内容はRscript.Rと同じ．
 
-### report.Rmd
+### FinalReport.Rmd
 第7章「結果のアウトプット」で登場するR Markdownで作成するRmdファイル．
