@@ -14,11 +14,10 @@
 本編中でoriginal.csvを編集した結果作成されるものと同じ．<br>
 本編中でデータ整形ができなかった場合はこちらをご利用ください．
 
-## Rスクリプト
+## Rコード
 
-### Rscript.html
+### Rcode.html
 本編中に登場するRスクリプトと実行結果．<br>
-Rスクリプトの内容はRscript.Rと同じ．
 
 ### FinalReport.Rmd
 第7章「結果のアウトプット」で登場するR Markdownで作成するRmdファイル．
