@@ -62,7 +62,7 @@ kable(x = tb1, format = "html", digits = 2) %>%
 治療有無で群別した各群に含まれる対象者の平均的な累積生存確率を，Kaplan-Meier法に基づいて推定した．
 
 ```{r}
-fit = survfit(formula = Surv(time = years_fu, event = event_y1) ~ treat_lab, data = new)
+fit <- survfit(formula = Surv(time = years_fu, event = event_y1) ~ treat_lab, data = new)
 
 p_km <- ggsurvplot(fit = fit,  # survfit()関数で推定したオブジェクト
                 data = new,      # データフレーム
