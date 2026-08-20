@@ -7405,7 +7405,15 @@ tb1 &lt;- print(x = tb, missing = TRUE, format = &quot;pf&quot;, nonnormal = FAL
 <div id="第4章-統計的仮説検定" class="section level1">
 <h1>第4章 | 統計的仮説検定</h1>
 <p>CSVファイルの読み込み</p>
-<pre class="r"><code>new &lt;- read.csv(&quot;new.csv&quot;)</code></pre>
+<pre class="r"><code>new &lt;- read.csv(&quot;new.csv&quot;)
+
+# 2026-08-20 追記：第2章で作成した days_fu・years_fu は，日付どうしの差分から
+# 作成しているため，厳密には数値型（numeric）ではなく，日数（days）の単位情報が
+# 付与された difftime クラスです．そのままでは hist() など一部の関数でエラーが
+# 生じるため，as.numeric() で数値型へ変換します．なお，上記の read.csv() で
+# new.csv を読み込み直した場合は数値型となるため，この変換は省略しても動作します．
+# 詳細はサポートページの正誤表を参照してください．
+new$years_fu &lt;- as.numeric(new$years_fu)</code></pre>
 <div id="連続変数のアウトカムを2群間で比較する場合" class="section level2">
 <h2>4.3. 連続変数のアウトカムを2群間で比較する場合</h2>
 <div id="studentのt検定" class="section level3">
