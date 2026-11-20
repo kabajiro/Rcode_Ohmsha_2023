@@ -1,6 +1,6 @@
-<img src="assets/cover.jpg" align="left" width="170" alt="『医学研究のためのRによる統計解析入門』の表紙">
-
 # 医学研究のためのRによる統計解析入門
+
+<img src="assets/cover.jpg" align="left" width="170" alt="『医学研究のためのRによる統計解析入門』の表紙">
 
 **サポートページ（GitHub レポジトリ）**<br>
 **著者**：加葉田大志朗<br>
