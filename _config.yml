@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
-title: 医学研究のためのRによる統計解析入門 — 公開レポジトリ
-description: 『医学研究のためのRによる統計解析入門』（オーム社）の読者向け公開レポジトリ
+title: 医学研究のためのRによる統計解析入門 — サポートページ（GitHub レポジトリ）
+description: 『医学研究のためのRによる統計解析入門』（オーム社）の読者向けサポートページ（GitHub レポジトリ）
 lang: ja
 url: "https://kabajiro.github.io"
 baseurl: "/Rcode_Ohmsha_2023"

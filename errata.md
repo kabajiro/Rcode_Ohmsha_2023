@@ -33,7 +33,7 @@ title: 正誤表
 
 刊行後に判明した誤りと訂正の内容を，このページで随時お知らせします．紙面の修正は，今後の増刷・改訂の際に反映予定です．
 
-[公開レポジトリ（GitHub）に戻る](https://github.com/kabajiro/Rcode_Ohmsha_2023)
+[サポートページ（GitHub レポジトリ）に戻る](https://github.com/kabajiro/Rcode_Ohmsha_2023)
 
 ## 誤植の訂正
 
