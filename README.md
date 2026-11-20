@@ -7,7 +7,7 @@
 **出版社**：オーム社（[書籍ページ](https://www.ohmsha.co.jp/book/9784274230905.html)）<br>
 **発売**：2023年9月27日<br>
 **ISBN**：978-4-274-23090-5<br>
-**続刊**：加葉田大志朗・今井匠『Pythonによるはじめての統計解析』（2026，オーム社，[サポートページ](https://github.com/kabajiro/Pythoncode_Ohmsha_2026)）
+**続刊**：『Pythonによるはじめての統計解析』（2026）[サポートページ](https://github.com/kabajiro/Pythoncode_Ohmsha_2026)
 
 <br clear="all">
 
