@@ -1,6 +1,6 @@
-theme: jekyll-theme-cayman
-title: 『医学研究のためのRによる統計解析入門』サポートページ
-description: 著者：加葉田大志朗，監修：新谷歩（オーム社）
+theme: jekyll-theme-primer
+title: 医学研究のためのRによる統計解析入門 — 公開レポジトリ
+description: 『医学研究のためのRによる統計解析入門』（オーム社）の読者向け公開レポジトリ
 lang: ja
 url: "https://kabajiro.github.io"
 baseurl: "/Rcode_Ohmsha_2023"
