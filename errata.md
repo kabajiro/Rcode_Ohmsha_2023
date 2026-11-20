@@ -9,9 +9,9 @@ title: 正誤表
 .er-meta{flex:1;min-width:0;}
 .er-meta h1{margin:0 0 6px;border:none;padding:0;}
 .er-meta .er-sub{color:#57606a;margin:0 0 14px;font-size:1.05em;}
-.er-meta dl{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;margin:0;font-size:0.95em;}
+.er-meta dl{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;margin:0;font-size:0.95em;align-items:baseline;}
+.er-meta dt,.er-meta dd{margin:0;padding:0;font-style:normal;font-weight:400;line-height:1.5;}
 .er-meta dt{color:#57606a;font-weight:600;}
-.er-meta dd{margin:0;}
 .er-note{padding:12px 16px;border-left:4px solid #0969da;background:#f6f8fa;border-radius:4px;margin:12px 0;}
 @media (max-width:600px){.er-head{flex-direction:column;align-items:center;text-align:center}.er-meta dl{text-align:left}}
 </style>
